@@ -1,1 +1,1 @@
-# SGU_ANT6207_Assignment
+# Special Topics in Creative Technologies
