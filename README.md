@@ -1,1 +1,1 @@
-# Special Topics in Creative Technologies
+Special Topics in Creative Technologies
